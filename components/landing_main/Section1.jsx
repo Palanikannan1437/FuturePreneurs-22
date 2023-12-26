@@ -62,13 +62,13 @@ const Section1 = () => {
           <div className={styles.count}>
             Registered Participants{" "}
             <Countup
-              end={`${participantCount}`}
+              end={`1800`}
               className={`${styles.countup}`}
             />
           </div>
           <div className={styles.count}>
             Registered Teams{" "}
-            <Countup end={`${teamCount}`} className={`${styles.countup}`} />
+            <Countup end={`200`} className={`${styles.countup}`} />
           </div>
         </div>
         <p className={styles.main_para}>
