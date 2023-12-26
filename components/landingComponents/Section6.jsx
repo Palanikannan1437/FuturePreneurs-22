@@ -76,16 +76,7 @@ export function Section6() {
             <h1 className="footer__col1__title">E-CELL</h1>
             IDEATE. INNOVATE. ACTUATE
           </PText>
-          <PText
-            style={{
-              marginTop: "2.4rem",
-              fontSize: "0.7rem",
-              fontWeight: "bold",
-              marginLeft: "10rem",
-            }}
-          >
-            <MdPhoneInTalk /> +918293622180
-          </PText>
+          
           <PText
             style={{
               marginTop: "0rem",
